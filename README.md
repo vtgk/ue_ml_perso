@@ -2,4 +2,4 @@
 
 Travaux pratiques pour l'UE d'été "IA et physique des matériaux" (UM4PY128). 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arthurfl/ump4py128_tp2025/main)
+[![Binder](https://mybinder.org/v2/gh//vtgk/ue_ml_perso/edit/main)
